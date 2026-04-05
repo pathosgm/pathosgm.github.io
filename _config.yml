@@ -1,3 +1,15 @@
 theme: minima
 title: My Website
 description: My first Jekyll site
+
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
+  - name: Contact
+    link: /contact
+  - name: Projects
+    link: /projects
+  - name: Blog
+    link: /blog
